@@ -1,0 +1,5 @@
+com\mycompany\factory\ShapeFactory.class
+com\mycompany\factory\Shape.class
+com\mycompany\factory\Factory.class
+com\mycompany\factory\Circle.class
+com\mycompany\factory\Square.class
